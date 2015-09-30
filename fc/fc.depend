@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1430322065 source:d:\c++projects\fc\fc.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<string.h>
+	<iomanip>
+

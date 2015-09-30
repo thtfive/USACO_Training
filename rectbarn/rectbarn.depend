@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1432738201 source:d:\c++projects\rectbarn\rectbarn.cpp
+	<iostream>
+	<fstream>
+	<stack>
+	<cstring>
+	<algorithm>
+

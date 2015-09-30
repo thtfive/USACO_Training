@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1437466055 source:d:\c++projects\cutstick\cutstick.cpp
+	<iostream>
+	<fstream>
+
+1437466578 source:d:\c++projects\cutstick\cutstick.c
+	<stdio.h>
+

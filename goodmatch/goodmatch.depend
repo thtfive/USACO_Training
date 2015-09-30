@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1435237902 source:d:\c++projects\goodmatch\goodmatch.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<cstring>
+

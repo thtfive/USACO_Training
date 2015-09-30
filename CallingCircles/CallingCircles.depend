@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1435394683 source:d:\c++projects\callingcircles\callingcircles.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<vector>
+	<map>
+	<cstring>
+

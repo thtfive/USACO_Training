@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1432731419 source:d:\c++projects\cowxor\cowxor.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<vector>
+
+1432728060 source:d:\c++projects\cowxor\cowxor2.cpp
+	<iostream>
+	<cstring>
+	<vector>
+	<stdio.h>
+	<string>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1429949154 source:d:\c++projects\tower\tower.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	<cmath>
+

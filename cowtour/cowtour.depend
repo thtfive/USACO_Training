@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1427772651 source:d:\c++projects\cowtour\cowtour.cpp
+	<fstream>
+	<iostream>
+	<queue>
+	<cmath>
+	<iomanip>
+

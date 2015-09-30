@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1431099626 source:d:\c++projects\window\window.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<iomanip>
+
+1431057201 d:\c++projects\window\segtree.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<algorithm>
+

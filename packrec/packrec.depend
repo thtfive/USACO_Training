@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1432117051 source:d:\c++projects\packrec\packrec.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+

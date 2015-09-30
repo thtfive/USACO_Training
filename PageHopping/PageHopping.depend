@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1436260491 source:d:\c++projects\pagehopping\pagehopping.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<map>
+

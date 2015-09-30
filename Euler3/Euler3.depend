@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1435580626 source:d:\c++projects\euler3\euler3.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<vector>
+	<stack>
+	<cstring>
+	<queue>
+

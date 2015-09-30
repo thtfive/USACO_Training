@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1435158164 source:d:\c++projects\shortest2\shortest2.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<vector>
+	<map>
+	<queue>
+

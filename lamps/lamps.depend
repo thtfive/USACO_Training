@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1427089798 source:d:\c++projects\lamps\lamps.cpp
+	<fstream>
+	<iostream>
+

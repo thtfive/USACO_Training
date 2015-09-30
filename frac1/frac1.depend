@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1426566159 source:d:\c++projects\frac1\frac1.cpp
+	<iostream>
+	<fstream>
+

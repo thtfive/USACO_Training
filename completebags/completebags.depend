@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1433311094 source:d:\c++projects\completebags\completebags.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<algorithm>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1436753699 source:d:\c++projects\princeandprincess\princeandprincess.cpp
+	<iostream>
+	<fstream>
+	<map>
+	<vector>
+	<cstring>
+

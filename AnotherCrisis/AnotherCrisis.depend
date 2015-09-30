@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1437560544 source:d:\c++projects\anothercrisis\anothercrisis.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<cmath>
+

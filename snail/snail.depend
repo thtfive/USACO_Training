@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1430731004 source:d:\c++projects\snail\snail.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+

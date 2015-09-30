@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1428216172 source:d:\c++projects\stamps\stamps.cpp
+	<iostream>
+	<fstream>
+

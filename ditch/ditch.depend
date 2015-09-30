@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1429628709 source:d:\c++projects\ditch\ditch.cpp
+	<iostream>
+	<fstream>
+	<queue>
+

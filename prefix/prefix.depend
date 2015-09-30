@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1427510675 source:d:\c++projects\prefix\prefix.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<string.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1435074335 source:d:\c++projects\longestpal\longestpal.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<algorithm>
+	<cmath>
+

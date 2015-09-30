@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1428749082 source:d:\c++projects\fence\fence.cpp
+	<iostream>
+	<fstream>
+	<stack>
+

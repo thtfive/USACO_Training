@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1431443796 source:d:\c++projects\char\char.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<queue>
+	<stack>
+

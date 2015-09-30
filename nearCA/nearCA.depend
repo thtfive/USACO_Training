@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1432103306 source:d:\c++projects\nearca\nearca.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<algorithm>
+	<map>
+

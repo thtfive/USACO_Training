@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1431529345 source:d:\c++projects\hidden\hidden.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+

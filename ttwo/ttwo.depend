@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1427629000 source:d:\c++projects\ttwo\ttwo.cpp
+	<iostream>
+	<fstream>
+

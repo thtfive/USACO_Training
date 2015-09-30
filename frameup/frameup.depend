@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1430228075 source:d:\c++projects\frameup\frameup.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<cmath>
+

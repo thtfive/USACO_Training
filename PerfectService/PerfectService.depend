@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1437662150 source:d:\c++projects\perfectservice\perfectservice.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<cmath>
+

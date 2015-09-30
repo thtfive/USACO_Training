@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1437570663 source:d:\c++projects\partyathali-bula\partyathali-bula.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<cmath>
+	<map>
+	<cstring>
+

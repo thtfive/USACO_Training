@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1425611521 source:d:\c++projects\dualpal\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1433586390 source:d:\c++projects\colortree\colortree.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<vector>
+	<map>
+

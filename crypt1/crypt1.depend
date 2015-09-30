@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1425868219 source:d:\c++projects\crypt1\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1432284871 source:d:\c++projects\clocks\clocks.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<queue>
+	<cstring>
+

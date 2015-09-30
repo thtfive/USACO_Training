@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1429860285 source:d:\c++projects\job\job.cpp
+	<fstream>
+	<iostream>
+

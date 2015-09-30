@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1432113575 source:d:\c++projects\calfflac\calfflac.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+

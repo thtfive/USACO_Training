@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1428386589 source:d:\c++projects\kimbits\kimbits.cpp
+	<fstream>
+	<iostream>
+	<cmath>
+

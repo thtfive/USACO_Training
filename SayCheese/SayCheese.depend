@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1436276036 source:d:\c++projects\saycheese\saycheese.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	<cstring>
+	<vector>
+	<map>
+	<cmath>
+

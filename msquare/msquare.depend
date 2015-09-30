@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1428475999 source:d:\c++projects\msquare\msquare.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	<cmath>
+

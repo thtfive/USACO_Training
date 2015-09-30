@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1425540020 source:d:\c++projects\namenum2\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+
+1425539206 d:\c++projects\namenum2\header.h
+

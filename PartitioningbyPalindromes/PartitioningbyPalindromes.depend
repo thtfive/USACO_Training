@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1437101653 source:d:\c++projects\partitioningbypalindromes\partitioningbypalindromes.cc
+	<iostream>
+	<fstream>
+	<vector>
+	<queue>
+	<cstring>
+	<cmath>
+	<algorithm>
+

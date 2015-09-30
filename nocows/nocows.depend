@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1427287810 source:d:\c++projects\nocows\nocows.cpp
+	<iostream>
+	<fstream>
+

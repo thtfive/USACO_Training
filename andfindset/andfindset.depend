@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1433346116 source:d:\c++projects\andfindset\andfindset.cpp
+	<iostream>
+	<map>
+	<fstream>
+	<algorithm>
+

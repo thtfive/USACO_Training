@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1428409123 source:d:\c++projects\spin\spin.cpp
+	<iostream>
+	<fstream>
+

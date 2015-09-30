@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1428305386 source:d:\c++projects\humble\humble.cpp
+	<iostream>
+	<fstream>
+

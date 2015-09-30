@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1430041751 source:d:\c++projects\shuttle\shuttle.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	<cmath>
+

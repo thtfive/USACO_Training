@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1435564711 source:d:\c++projects\audiophobia\audiophobia.cpp
+	<iostream>
+	<fstream>
+	<map>
+	<cstring>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1426948813 source:d:\c++projects\hamming\hamming.cpp
+	<fstream>
+	<iostream>
+

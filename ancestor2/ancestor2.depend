@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1435069008 source:d:\c++projects\ancestor2\ancestor2.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<cstring>
+	<map>
+	<fstream>
+	<cmath>
+

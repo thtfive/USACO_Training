@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1436145740 source:d:\c++projects\funnycarracing\funycarracing.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	<map>
+	<vector>
+	<algorithm>
+	<cstring>
+

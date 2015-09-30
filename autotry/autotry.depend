@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1438702400 source:d:\c++projects\autotry\autotru.cpp
+	<iostream>
+	<cstring>
+	<vector>
+
+1436183886 d:\c++projects\autotry\cqueue.h
+	<iostream>
+	<stack>
+	<vector>
+	<fstream>
+	<cstring>
+	<exception>
+
+1436767430 source:d:\c++projects\autotry\newcpp.cpp
+	<iostream>
+	<cstring>
+
+1438491727 source:d:\c++projects\autotry\workermi.cpp
+	<iostream>
+	"workermi.h"
+	<cstring>
+
+1438490847 d:\c++projects\autotry\workermi.h
+	<cstring>
+
+1438491473 source:d:\c++projects\autotry\workmi.cpp
+	<iostream>
+	<cstring>
+	"workermi.h"
+
+1438504042 source:d:\c++projects\autotry\src\tv.cpp
+	"Tv.h"
+
+1438504042 d:\c++projects\autotry\include\tv.h
+
+1438508635 source:d:\c++projects\autotry\tvtest.cpp
+	<iostream>
+	<algorithm>
+	"Tv.h"
+	<cstdlib>
+
+1443065431 source:d:\my_cpp_projects\autotry\autotru.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<fstream>
+	<cassert>
+	<queue>
+	<set>
+	<stack>
+	<cmath>
+

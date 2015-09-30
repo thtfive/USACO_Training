@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1436193206 source:d:\c++projects\poolconstruction\poolconstruction.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<map>
+	<cstring>
+	<algorithm>
+	<queue>
+

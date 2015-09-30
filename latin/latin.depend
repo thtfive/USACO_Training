@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1432537045 source:d:\c++projects\latin\latin.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<vector>
+

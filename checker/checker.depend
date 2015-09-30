@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1432566555 source:d:\c++projects\checker\checker.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cmath>
+

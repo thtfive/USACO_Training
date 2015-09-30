@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1427727715 source:d:\c++projects\comehome\comehome.cpp
+	<fstream>
+	<iostream>
+

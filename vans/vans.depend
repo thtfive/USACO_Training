@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1432802130 source:d:\c++projects\vans\vans.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+

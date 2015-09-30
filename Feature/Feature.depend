@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1435851045 source:d:\c++projects\feature\feature.cpp
+	<iostream>
+	<fstream>
+	<map>
+	<vector>
+	<algorithm>
+	<queue>
+	<cstring>
+

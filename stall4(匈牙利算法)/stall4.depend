@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1429690626 source:d:\c++projects\stall4\stall4.cpp
+	<fstream>
+	<iostream>
+	<queue>
+
+1429976453 source:d:\c++projects\stall4(ÐÙÑÀÀûËã·¨)\stall4.cpp
+	<fstream>
+	<iostream>
+	<string.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1429969639 source:d:\c++projects\lgame\lgame.cpp
+	<iostream>
+	<fstream>
+

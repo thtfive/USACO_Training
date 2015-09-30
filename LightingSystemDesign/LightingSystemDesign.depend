@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1437142710 source:d:\c++projects\lightingsystemdesign\lightingsystemdesign.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<queue>
+	<cstring>
+	<cmath>
+	<algorithm>
+

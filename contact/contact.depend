@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1428299130 source:d:\c++projects\contact\contact.cpp
+	<fstream>
+	<iostream>
+	<cmath>
+

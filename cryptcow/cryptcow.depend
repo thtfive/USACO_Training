@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1432803502 source:d:\c++projects\cryptcow\cryptcow.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<vector>
+

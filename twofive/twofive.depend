@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1431703710 source:d:\c++projects\twofive\twofive.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+

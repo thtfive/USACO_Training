@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1432212847 source:d:\c++projects\fence8\fence8.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<algorithm>
+

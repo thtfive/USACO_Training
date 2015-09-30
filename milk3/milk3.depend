@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1426400429 source:d:\c++projects\milk3\milk3.cpp
+	<iostream>
+	<fstream>
+

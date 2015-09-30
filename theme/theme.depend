@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1430656960 source:d:\c++projects\theme\theme.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+

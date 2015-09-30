@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1425453482 source:d:\c++projects\milk22\main.cpp
+	<iostream>
+	<fstream>
+

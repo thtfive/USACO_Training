@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1435411291 source:d:\c++projects\bestmatch\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<cstring>
+	<vector>
+

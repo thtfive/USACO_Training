@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1438011029 source:d:\c++projects\lifthopping\lifthopping.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<map>
+	<stack>
+	<set>
+	<queue>
+	<cstring>
+

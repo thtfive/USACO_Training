@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1437314600 source:d:\c++projects\colorlength\colorlength.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<map>
+	<cstring>
+	<algorithm>
+

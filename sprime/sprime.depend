@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1426418945 source:d:\c++projects\sprime\sprime.cpp
+	<iostream>
+	<fstream>
+

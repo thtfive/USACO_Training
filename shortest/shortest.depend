@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1435158510 source:d:\c++projects\shortest\shortest.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<vector>
+	<map>
+	<queue>
+

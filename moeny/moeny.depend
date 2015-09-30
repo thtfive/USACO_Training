@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1427441530 source:d:\c++projects\moeny\money.cpp
+	<iostream>
+	<fstream>
+

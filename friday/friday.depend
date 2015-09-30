@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1404133658 source:d:\c++projects\friday\main.cpp
+	<iostream>
+	<fstream>
+

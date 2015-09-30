@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1430745772 source:d:\c++projects\milk4\milk4.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1427683061 source:d:\c++projects\maze1\maze1.cpp
+	<iostream>
+	<fstream>
+	<queue>
+

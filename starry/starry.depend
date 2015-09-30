@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1430647119 source:d:\c++projects\starry\starry.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<queue>
+

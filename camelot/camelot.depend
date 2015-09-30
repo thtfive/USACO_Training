@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1428909377 source:d:\c++projects\camelot\camelot.cpp
+	<iostream>
+	<fstream>
+	<queue>
+

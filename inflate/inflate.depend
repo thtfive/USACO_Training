@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1428114363 source:d:\c++projects\inflate\inflate.cpp
+	<fstream>
+	<iostream>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1425607145 source:d:\c++projects\palsquare\main.cpp
+	<iostream>
+	<fstream>
+

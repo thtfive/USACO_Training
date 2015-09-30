@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1428420347 source:d:\c++projects\ratios\ratios.cpp
+	<fstream>
+	<iostream>
+

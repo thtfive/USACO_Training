@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1429109671 source:d:\c++projects\fence6\fence6.cpp
+	<iostream>
+	<fstream>
+

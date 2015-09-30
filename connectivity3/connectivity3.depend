@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1437148715 source:d:\c++projects\connectivity3\connectivity3.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<queue>
+	<cstring>
+	<cmath>
+	<algorithm>
+	<stack>
+

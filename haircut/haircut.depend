@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1429327620 source:d:\c++projects\haircut\haircut.cpp
+	<iostream>
+	<fstream>
+	<string>
+

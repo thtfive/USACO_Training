@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1428800319 source:d:\c++projects\omino\omino.cpp
+	<iostream>
+	<fstream>
+

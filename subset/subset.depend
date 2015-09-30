@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1427168953 source:d:\c++projects\subset\subset.cpp
+	<fstream>
+	<iostream>
+

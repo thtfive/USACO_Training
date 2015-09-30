@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1433088016 source:d:\c++projects\trie_hiho\trie.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	<cstring>
+	<algorithm>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1433253239 source:d:\c++projects\bags01\bags01.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<algorithm>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1438402753 source:d:\c++projects\stringgood\stringgood.cpp
+	"StringGood.h"
+	<iostream>
+	<cstring>
+
+1438402593 d:\c++projects\stringgood\stringgood.h
+	<iostream>
+
+1438405630 source:d:\c++projects\stringgood\stringtest.cpp
+	<iostream>
+	<stack>
+	"StringGood.h"
+

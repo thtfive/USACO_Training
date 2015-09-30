@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1437485564 source:d:\c++projects\bracketsequence\bracketsequence.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<cstring>
+	<string>
+	<map>
+	<stack>
+	<queue>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1426947603 source:d:\c++projects\holstein\holstein.cpp
+	<fstream>
+	<iostream>
+	<stack>
+

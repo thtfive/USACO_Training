@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1426044145 source:d:\c++projects\wormhole\main.cpp
+	<iostream>
+	<fstream>
+

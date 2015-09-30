@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1429950373 source:d:\c++projects\buylow\buylow.cpp
+	<iostream>
+	<fstream>
+

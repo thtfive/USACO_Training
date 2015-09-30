@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1432444411 source:d:\c++projects\betsy\betsy.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<queue>
+
