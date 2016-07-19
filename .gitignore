@@ -1,6 +1,6 @@
 .gitignore
-bin/
-obj/
-*.depend
 *.cbp
+*.depend
+obj/
+bin/
 *.layout
